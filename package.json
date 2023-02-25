@@ -1,0 +1,14 @@
+{
+  "name": "firebase_auth_token_get",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "play": "ts-node index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.7.0",
+    "types": "^0.1.1",
+    "typescript": "^4.6.4"
+  }
+}
